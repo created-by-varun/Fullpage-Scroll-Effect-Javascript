@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
-h1 {
+h1, h3 {
     text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3.5px;
 }
